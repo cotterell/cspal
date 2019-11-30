@@ -3,8 +3,8 @@
 ## Group Members
 
 1. [Brad Barnes](https://cs.uga.edu/directory/people/brad-barnes), _University of Georgia_
-1. [Michael E. Cotterell](https://michaelcotterell.com/)
-1. [Delaram Yazdansepas.](http://csweb.cs.uga.edu/~delaram/)
+1. [Michael E. Cotterell](https://michaelcotterell.com/), _University of Georgia_
+1. [Delaram Yazdansepas.](http://csweb.cs.uga.edu/~delaram/), _University of Georgia_
 
 ## Publications
 
