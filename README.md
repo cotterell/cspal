@@ -1,5 +1,7 @@
 # Peer-based Active Learning in CS
 
+We are particularly interested in active learning, peer learning, and assessment in computing education.
+
 ## Group Members
 
 1. [Brad Barnes](https://cs.uga.edu/directory/people/brad-barnes), _University of Georgia_
