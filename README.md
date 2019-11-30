@@ -1,8 +1,10 @@
 # Peer-based Active Learning in CS
 
-## Members
+## Group Members
 
-1. 
+1. [Brad Barnes](https://cs.uga.edu/directory/people/brad-barnes), _University of Georgia_
+1. [Michael E. Cotterell](https://michaelcotterell.com/)
+1. [Delaram Yazdansepas.](http://csweb.cs.uga.edu/~delaram/)
 
 ## Publications
 
