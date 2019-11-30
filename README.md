@@ -1,4 +1,8 @@
-# cspal
+# Peer-based Active Learning in CS
+
+## Members
+
+1. 
 
 ## Publications
 
